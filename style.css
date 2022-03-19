@@ -1,0 +1,14 @@
+body {
+ font-family: 'Outfit', sans-serif;
+ background-color: hsl(220, 15%, 55%);
+}
+
+.container {
+ /* position: absolute; */
+ /* margin: auto; */
+ padding: 10px;
+ border-style: solid;
+ border-color: black;
+ background-color: white;
+ text-align: center;
+}
